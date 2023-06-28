@@ -43,6 +43,41 @@ python MasterGestureControl.py
 
 <br>
 
+### 📸 Screenshots
+
+<br>
+
+- Home Page -
+<br>
+
+![Screenshot (745)](https://github.com/notsanidhyak/Gesture-Controller/assets/86651116/8ac60c59-2cd4-4f99-b40e-981eea2969ef)
+
+<br>
+
+- Volume Conrol Page -
+<br>
+
+![Screenshot (747)](https://github.com/notsanidhyak/Gesture-Controller/assets/86651116/4bc4f836-a93e-47d6-bf60-1f63b5ec2e21)
+
+<br>
+
+- Brightness Control Page -
+<br>
+
+![Screenshot (751)](https://github.com/notsanidhyak/Gesture-Controller/assets/86651116/ad0dff33-fd7e-435e-b0fb-c9b2991baa75)
+
+<br>
+
+### 📽️ Video Demo
+<br>
+
+
+https://github.com/notsanidhyak/Gesture-Controller/assets/86651116/628751ed-3847-4430-af82-bd42e6c6a4cd
+
+
+<br>
+
+
 ### ❤️ Feedback
 <br>
 
