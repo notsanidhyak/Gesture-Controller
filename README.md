@@ -7,7 +7,7 @@
 > Unleash Your Gestures, Master Your Device: Volume and Brightness Control at Your Fingertips!
 <br>
 
-This application allows users to control the brightness and volume of their device using simple hand gestures which are detected using the device camera and are processed by OpenCV and Mediapipe library (helps determine the hand landmarks). This hence offers a wide range of use cases and can be seamlessly integrated with other applications as well.
+This application allows users to control the brightness and volume of their device using simple hand gestures which are detected by the device camera and are processed with the help of OpenCV and Mediapipe library (aids in identifying the hand landmarks). This hence offers a wide range of use cases and can be seamlessly integrated with other applications as well.
 
 <br>
 
